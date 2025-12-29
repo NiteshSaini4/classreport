@@ -30,7 +30,7 @@ public class ExtentClass
 	  createTest.setSystemInfo("BrowesrVersion", "181.91.22.01"); 
 	  createTest.setSystemInfo("MACAddress", "00-B0-D0-63-C2-26"); 
 	  createTest.setSystemInfo("Environment", "Testing"); 
-	  createTest.setSystemInfo("User Name", "Nitesh Saini"); 
+	  createTest.setSystemInfo("User Name", "Ronak Saini"); 
 	   
 	   
 	 
